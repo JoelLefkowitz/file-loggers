@@ -1,6 +1,6 @@
-# File logger
+# File loggers
 
-Run tasks over a group of files with progress logs and spinner
+Run tasks over a group of files with progress logs and spinner.
 
 ![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/file-loggers/review.yaml)
 ![Version](https://img.shields.io/npm/v/file-loggers)

@@ -1,6 +1,6 @@
 {
   "name": "file-loggers",
-  "description": "Run tasks over a group of files with progress logs and spinner",
+  "description": "Run tasks over a group of files with progress logs and spinner.",
   "version": "0.2.0",
   "license": "MIT",
   "author": "Joel Lefkowitz",
